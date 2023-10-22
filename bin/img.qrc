@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app.ico</file>
+        <file>icons/field.png</file>
+        <file>icons/table.png</file>
+        <file>icons/down-arrow1.png</file>
+        <file>icons/down-arrow2.png</file>
+        <file>icons/checkbox-05-32-checked.png</file>
+        <file>icons/checkbox-05-32-unchecked.png</file>
+        <file>icons/radiobutton_03_32_checked2.png</file>
+        <file>icons/radiobutton_03_32_checked2_disabled.png</file>
+        <file>icons/radiobutton_03_32_unchecked.png</file>
+    </qresource>
+</RCC>
